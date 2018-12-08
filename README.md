@@ -2,7 +2,8 @@
 #### code by Minu Jawahar 2018
 #### developed at Data Science Academy https://datascience.one
 
-Face Recognition is an application of computer vision.The coding steps for face recognition are 
+Face Recognition is an application of computer vision.The coding steps for face recognition are :
+
   1)Collecting Data :Different images of a person is captured and stored in a dataset.It is used for training image with its corresponding identity.Along with images,we take some details such as id,name etc.It can be used further to train the model to identity specific persons.
   
   2)Training Data: All the images stored are converted to numpy array.For futher computing the datas should be in numpy array.
