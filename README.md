@@ -4,10 +4,10 @@
 
 Face Recognition is an application of computer vision.The coding steps for face recognition are :
 
-  1)Collecting Data :Different images of a person is captured and stored in a dataset.It is used for training image with its corresponding identity.Along with images,we take some details such as id,name etc.It can be used further to train the model to identity specific persons.
+  1)Collecting Data :Different images of a person is captured and stored in a dataset.It is used for training image with its corresponding identity.Along with images,we take some details such as id,name etc.It can be used further to train the model to identity specific persons.Create folder (eg:dataSet) to store images.
   
   2)Training Data: All the images stored are converted to numpy array.For futher computing the datas should be in numpy array.
-   All the images and corresponding details on a person is converted to numpy array and trained with recognizer used.
+   All the images and corresponding details on a person is converted to numpy array and trained with recognizer used.Create folder to store yml file .Yml file stores numpy array of immages and Ids.
    
   3)Detecting Face:Last stage is to predict whether the captured image is same as that of the ones stored.
   
