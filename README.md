@@ -1,6 +1,6 @@
 # Face Recognition using opencv
-# code by Minu Jawahar 2018
-# developed at Data Science Academy https://datascience.one
+#### code by Minu Jawahar 2018
+#### developed at Data Science Academy https://datascience.one
 
 Face Recognition is an application of computer vision.The coding steps for face recognition are 
   1)Collecting Data :Different images of a person is captured and stored in a dataset.It is used for training image with its corresponding identity.Along with images,we take some details such as id,name etc.It can be used further to train the model to identity specific persons.
@@ -24,5 +24,7 @@ Face Recognition is an application of computer vision.The coding steps for face 
  ## Required Modules
   
   1)cv2: is OpenCV module for Python which we will use for face detection and face recognition.
+  
   2)os: It is used to get directories and file names.
+  
   3)numpy:To convert Python lists to numpy arrays as OpenCV face recognizers accept numpy arrays only.
