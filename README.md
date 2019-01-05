@@ -33,11 +33,11 @@ Face Recognition is an application of computer vision.The coding steps for face 
   ## Installation
   ### In Ubuntu
    #### For Python2
-   1)cv - pip install opencv-contrib-python
+   1)cv - pip install opencv-contrib-python(Version 2.4.9 .1)
    2)numpy - pip install numpy
    
-   #### For python3
-   1)cv - pip3 install opencv-contrib-python
-   1)cv - pip3 install opencv-contrib-python
    
-   2)numpy -
+   ### In Windows
+   ##  For Python 3
+   1)cv- Download opencv 3.2.0 from https:https://opencv.org/releases.html
+   2)python -version(3.6)
