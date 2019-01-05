@@ -29,3 +29,15 @@ Face Recognition is an application of computer vision.The coding steps for face 
   2)os: It is used to get directories and file names.
   
   3)numpy:To convert Python lists to numpy arrays as OpenCV face recognizers accept numpy arrays only.
+  
+  ## Installation
+  ###In Ubuntu
+   For Python2
+   1)cv - pip install opencv-contrib-python
+   2)numpy - pip install numpy
+   
+   For python3
+   1)cv - pip3 install opencv-contrib-python
+   1)cv - pip3 install opencv-contrib-python
+   
+   2)numpy -
